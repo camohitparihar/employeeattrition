@@ -1,0 +1,4 @@
+mkdir directoryName
+cd directoryName
+git init
+git remote add origin -f repoUrl
